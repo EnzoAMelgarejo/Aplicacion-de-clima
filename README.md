@@ -38,25 +38,12 @@ WeatherApp es una aplicación web que permite consultar el clima en tiempo real 
 
 ## Despliegue
 La aplicación ya está en producción y disponible en GitHub Pages o en otra plataforma de despliegue. Puedes acceder a ella en el siguiente enlace:
-[Enlace a la aplicación](https://tuusuario.github.io/WeatherApp)
+[Enlace a la aplicación](https://EnzoAMelgarejo.github.io/WeatherApp)
 
 ## Mejoras futuras
 - Agregar pronóstico extendido de varios días.
 - Soporte para unidades de temperatura (Celsius/Fahrenheit).
 - Mejoras en la interfaz de usuario.
 
-## Contribuciones
-Si deseas contribuir al proyecto, puedes hacer un fork del repositorio y enviar un pull request con tus mejoras.
-
 ## Autor
-Desarrollado por [Tu Nombre].
-
----
-
-**Nota:** Si ya has subido la aplicación a GitHub y realizaste cambios, no olvides hacer un commit y un push de las actualizaciones:
-```sh
-git add .
-git commit -m "Actualización de documentación y mejoras en la aplicación"
-git push origin main
-```
-
+Desarrollado por [Enzo Melgarejo].
